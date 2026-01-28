@@ -42,7 +42,7 @@ The project aims to raise health awareness through simple and accurate analysis.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/BodyBalance.git
+   git clone https://github.com/shohijahon07/BodyBalance.git
 Configure the database in application.properties
 
 Run the project:
